@@ -6,5 +6,5 @@ module top_module (
     input [1:0] sel, 
     output [7:0] q 
 );
-
+    
 endmodule
