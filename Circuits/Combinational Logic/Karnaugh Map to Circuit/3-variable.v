@@ -4,5 +4,8 @@ module top_module(
     input c,
     output out  ); 
 
-    assign out = (~a)*(~b)*(~c);
+    assign out = a&(~c) | b&(~c) | c;
 endmodule
+ /*
+    out = (a&(~c) | b&(~c) | c) = (a | b | c);
+ */
