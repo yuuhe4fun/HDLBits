@@ -3,14 +3,16 @@ HDLBits is a collection of small circuit design exercises for practicing digital
 
 ## Getting Started
 
-- [Getting Started](https://hdlbits.01xz.net/wiki/Step_one) | [Answer](./Problem_sets/Getting_Started/Zero.v)
-- Output Zero
+- [Getting Started](https://hdlbits.01xz.net/wiki/Step_one) | [Answer](./Problem_sets/Getting Started/Zero.v)
+- [Output Zero](https://hdlbits.01xz.net/wiki/Zero) | [Answer](./Problem_sets/Getting Started/Zero.v)
 
 ## Verilog Language
 
 ### Basics
 
-- 
+- [Simple wire](https://hdlbits.01xz.net/wiki/Wire) | Answer
+- Four wires | Answer
+- Inverter | Answer
 
 ### Vectors
 - Vectors
