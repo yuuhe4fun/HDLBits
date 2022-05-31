@@ -3,7 +3,7 @@ HDLBits is a collection of small circuit design exercises for practicing digital
 
 ## Getting Started
 
-- [Getting Started](https://hdlbits.01xz.net/wiki/Step_one) | [Answer](./Problem_sets/Getting Started/Zero.v)
+- [Getting Started](https://hdlbits.01xz.net/wiki/Step_one) | [Answer](./Problem_sets/Getting_Started/Zero.v)
 - Output Zero
 
 ## Verilog Language
