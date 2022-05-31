@@ -1,4 +1,9 @@
-module top_module( input in, output out );
+module top_module( 
+    input a,b,c,
+    output w,x,y,z );
 
-    assign out = in;
+    assign w = a;
+    assign x = b;
+    assign y = b;
+    assign z = c;
 endmodule

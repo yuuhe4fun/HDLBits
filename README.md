@@ -11,13 +11,13 @@ HDLBits is a collection of small circuit design exercises for practicing digital
 ### Basics
 
 - [Simple wire](https://hdlbits.01xz.net/wiki/Wire) | [Answer](./Problem_sets/Verilog_Language/Basics/wire.v)
-- Four wires | [Answer](./Problem_sets/Verilog_Language/Basics/wire4.v)
-- Inverter | Answer
-- AND gate | Answer
-- NOR gate | Answer
-- XNOR gate | Answer
-- Declaring wires | Answer
-- 7458 chip | Answer
+- [Four wires](https://hdlbits.01xz.net/wiki/Wire4) | [Answer](./Problem_sets/Verilog_Language/Basics/wire4.v)
+- [Inverter](https://hdlbits.01xz.net/wiki/Notgate) | [Answer](./Problem_sets/Verilog_Language/Basics/Notgate.v)
+- [AND gate](https://hdlbits.01xz.net/wiki/Andgate) | [Answer]((./Problem_sets/Verilog_Language/Basics/Andgate.v))
+- [NOR gate](https://hdlbits.01xz.net/wiki/Norgate) | [Answer]((./Problem_sets/Verilog_Language/Basics/Norgate.v))
+- [XNOR gate](https://hdlbits.01xz.net/wiki/Xnorgate) | [Answer]((./Problem_sets/Verilog_Language/Basics/Xnorgate.v))
+- [Declaring wires](https://hdlbits.01xz.net/wiki/Wire_decl) | [Answer]((./Problem_sets/Verilog_Language/Basics/Wire_decl.v))
+- [7458 chip](https://hdlbits.01xz.net/wiki/7458) | [Answer]((./Problem_sets/Verilog_Language/Basics/7458.v))
 
 ### Vectors
 - Vectors
