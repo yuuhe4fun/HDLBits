@@ -1,20 +1,16 @@
-<!-- toc -->
-[HDLBits](#hdlbits)
-- [HDLBits](#hdlbits)
-  - [Verilog Language](#verilog-language)
-    - [Basics](#basics)
-    - [Vectors](#vectors)
-    - [Modules: Hierarchy](#modules-hierarchy)
-  - [Circuits](#circuits)
-    - [Combinational Logic](#combinational-logic)
-      - [Basic Gates](#basic-gates)
-      - [Multiplexers](#multiplexers)
-
 # HDLBits
 HDLBits is a collection of small circuit design exercises for practicing digital hardware design using Verilog Hardware Description Language (HDL). Earlier problems follow a tutorial style, while later problems will increasingly challenge your circuit design skills.
+
+## Getting Started
+
+- [Getting Started](https://hdlbits.01xz.net/wiki/Step_one) | Answer
+- Output Zero
+
 ## Verilog Language
 
 ### Basics
+
+- 
 
 ### Vectors
 - Vectors
