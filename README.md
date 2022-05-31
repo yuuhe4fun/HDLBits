@@ -3,16 +3,21 @@ HDLBits is a collection of small circuit design exercises for practicing digital
 
 ## Getting Started
 
-- [Getting Started](https://hdlbits.01xz.net/wiki/Step_one) | [Answer](./Problem_sets/Getting Started/Zero.v)
-- [Output Zero](https://hdlbits.01xz.net/wiki/Zero) | [Answer](./Problem_sets/Getting Started/Zero.v)
+- [Getting Started](https://hdlbits.01xz.net/wiki/Step_one) | [Answer](./Problem_sets/Getting_Started/Zero.v)
+- [Output Zero](https://hdlbits.01xz.net/wiki/Zero) | [Answer](./Problem_sets/Getting_Started/Zero.v)
 
 ## Verilog Language
 
 ### Basics
 
-- [Simple wire](https://hdlbits.01xz.net/wiki/Wire) | Answer
-- Four wires | Answer
+- [Simple wire](https://hdlbits.01xz.net/wiki/Wire) | [Answer](./Problem_sets/Verilog_Language/Basics/wire.v)
+- Four wires | [Answer](./Problem_sets/Verilog_Language/Basics/wire4.v)
 - Inverter | Answer
+- AND gate | Answer
+- NOR gate | Answer
+- XNOR gate | Answer
+- Declaring wires | Answer
+- 7458 chip | Answer
 
 ### Vectors
 - Vectors
