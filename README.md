@@ -20,7 +20,7 @@ HDLBits is a collection of small circuit design exercises for practicing digital
 - [7458 chip](https://hdlbits.01xz.net/wiki/7458) | [Answer]((./Problem_sets/Verilog_Language/Basics/7458.v))
 
 ### Vectors
-- Vectors
+- [Vectors](https://hdlbits.01xz.net/wiki/Vector0) | [Answer]((./Problem_sets/Verilog_Language/Vectors/Vector0.v))
 - Vectors in more detail
 - Vector part select
 - Bitwise operators
