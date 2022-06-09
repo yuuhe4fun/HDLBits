@@ -21,9 +21,9 @@ HDLBits is a collection of small circuit design exercises for practicing digital
 
 ### Vectors
 - [Vectors](https://hdlbits.01xz.net/wiki/Vector0) | [Answer]((./Problem_sets/Verilog_Language/Vectors/Vector0.v))
-- Vectors in more detail
-- Vector part select
-- Bitwise operators
+- [Vectors in more detail](https://hdlbits.01xz.net/wiki/Vector1) | [Answer]((./Problem_sets/Verilog_Language/Vectors/Vector1.v))
+- [Vector part select](https://hdlbits.01xz.net/wiki/Vector2) | [Answer]((./Problem_sets/Verilog_Language/Vectors/Vector2.v))
+- Bitwise operators | 
 - Four-input gates
 - Vector concatenation operator
 - Vector reversal 1
